@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 html {
-  background-color: purple;
+  background-color: indigo;
   background-image: url("../img/lighthouse.jpg");
   background-size: cover;
   background-blend-mode: overlay;
